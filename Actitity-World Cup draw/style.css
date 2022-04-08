@@ -1,0 +1,46 @@
+h1,h2{
+    text-align: center;
+}
+#pot,#group{
+    width:100%;
+    height:50%;
+    text-align: center;
+
+}
+
+#pot1,#pot2,#pot3,#pot4{
+    width: 23%;
+    height: 30%;
+    display: inline-block;
+    border: solid 1px #00f;
+    background-color: #999;
+    margin: 10px;
+    text-align: justify;
+}
+
+.pot-title,.group-title{
+    text-align: center;
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+
+}
+
+.generate{
+    width: 100%;
+    display: inline-block;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+#group1,#group2,#group3,#group4,#group5,#group6,#group7,#group8{
+    width: 22%;
+    display: inline-block;
+    margin: 15px;
+    text-align: justify;
+}
